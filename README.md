@@ -1,2 +1,2 @@
-# 100daysofCide
+# 100daysofCode
 files and progress
